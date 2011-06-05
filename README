@@ -1,3 +1,11 @@
+This mobile app uses the Face.com API to recognize missing people or wanted criminals upon taking a 
+photo via the mobile device's camera. This prototype has been tested with photos of my own face only. 
+The API is not that smart and needs lots of training images in various conditions to recognize a face. 
+Ideal conditions would include snapping photos of a person in an unvarying position, such as in an 
+airport security line.
+
+Future extension(s): real-time video face recognition
+
 Welcome to your Appcelerator Titanium Mobile Project
 
 This is a blank project.  Start by editing your application's app.js to 
