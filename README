@@ -4,6 +4,9 @@ The API is not that smart and needs lots of training images in various condition
 Ideal conditions would include snapping photos of a person in an unvarying position, such as in an 
 airport security line.
 
+This is a possible solution to this Random Hacks of Kindness #3 problem statement:
+http://www.rhok.org/problems/person-finder-voice-image
+
 Future extension(s): real-time video face recognition
 
 Welcome to your Appcelerator Titanium Mobile Project
